@@ -1,7 +1,17 @@
 {
-   "tvs": [
-      {
-         "alarabya": "https://www.youtube.com/watch?v=UDNO9R7C4oQ"
-      }
-   ]
+  "list": [
+    {
+      "category": "News",
+      "data": [
+        {
+          "name": "Al-Arabiya",
+          "id": "UDNO9R7C4oQ"
+        },
+        {
+          "name": "Al Jazeera",
+          "id": "F-POY4Q0QSI"
+        }
+      ]
+    }
+  ]
 }
