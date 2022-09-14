@@ -5,11 +5,73 @@
       "data": [
         {
           "name": "Al-Arabiya",
-          "id": "UDNO9R7C4oQ"
+          "url": "UDNO9R7C4oQ",
+          "type": "youtube"
+        },
+        {
+          "name": "Al-Hadath",
+          "url": "St61kDYyrvk",
+          "type": "youtube"
         },
         {
           "name": "Al Jazeera",
-          "id": "F-POY4Q0QSI"
+          "url": "F-POY4Q0QSI",
+          "type": "youtube"
+        },
+        {
+          "name": "DW-EN",
+          "url": "GE_SfNVNyqk",
+          "type": "youtube"
+        },
+        {
+          "name": "France 24",
+          "url": "h3MuIUNCCzI",
+          "type": "youtube"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "dp8PhLsUcFE",
+          "type": "youtube"
+        },
+        {
+          "name": "BBC Persian",
+          "url": "rk5r4oBiGZs",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "category": "Fun",
+      "data": [
+        {
+          "name": "Nat Geo En",
+          "url": "zL93Lx2_2WA",
+          "type": "youtube"
+        },
+        {
+          "name": "Al Jazeera Documentary",
+          "url": "lRjOKEF_Ynw",
+          "type": "youtube"
+        },
+        {
+          "name": "NASA Live",
+          "url": "21X5lGlDOfg",
+          "type": "youtube"
+        }
+      ]
+    },
+    {
+      "category": "کوردی",
+      "data": [
+        {
+          "name": "Rudaw",
+          "url": "OQyklh31QK0",
+          "type": "youtube"
+        },
+        {
+          "name": "Kurdmax Music",
+          "url": "QuZqE7g1Kek",
+          "type": "youtube"
         }
       ]
     }
